@@ -20,11 +20,17 @@
 - **[套餐汇总](https://hostdarecn2.github.io/hostdare-plans)** - 完整套餐对比分析
 - **[购买教程](https://hostdarecn2.github.io/hostdare-buying-guide)** - 详细购买指导
 
-### 📚 博客内容（还在创作中）
-- **[测评专区](https://hostdarecn2.github.io/blog/reviews)** - 深度评测报告
-- **[使用教程](https://hostdarecn2.github.io/blog/tutorials)** - 技术使用指南
-- **[对比分析](https://hostdarecn2.github.io/blog/comparisons)** - 竞品对比分析
-- **[使用技巧](https://hostdarecn2.github.io/blog/tips)** - 优化使用技巧
+### 📚 重点文章
+
+- **[CN2 GIA 三网线路评测](https://hostdarecn2.github.io/blogs/reviews/hostdare-cn2-gia-network-review/)** - 电信、联通、移动去程与回程实测
+- **[CN2 GIA NVMe VPS 评测](https://hostdarecn2.github.io/blogs/reviews/hostdare-cn2-gia-nvme-vps/)** - CPU、磁盘、网络与流媒体测试
+- **[CN2 GIA AMD VPS 评测](https://hostdarecn2.github.io/blogs/reviews/hostdare-cn2-gia-nvme-amd-vps/)** - AMD EPYC 套餐性能记录
+- **[HostDare 与 BandwagonHost 对比](https://hostdarecn2.github.io/blogs/comparisons/hostdare-vs-bandwagonhost/)**
+- **[HostDare 与 DMIT 对比](https://hostdarecn2.github.io/blogs/comparisons/hostdare-vs-dmit/)**
+- **[HostDare 与 Vultr 对比](https://hostdarecn2.github.io/blogs/comparisons/hostdare-vs-vultr/)**
+- **[退款政策指南](https://hostdarecn2.github.io/blogs/tutorials/hostdare-refund-policy-guide/)**
+- **[内存与流量翻倍领取方法](https://hostdarecn2.github.io/blogs/tips/vps-extra-benefits-memory-traffic-double/)**
+- **[全部技术博客](https://hostdarecn2.github.io/blogs/)**
 
 ### 📰 新闻动态（还在创作中）
 - **[新闻中心](https://hostdarecn2.github.io/news)** - HostDare 最新动态与活动

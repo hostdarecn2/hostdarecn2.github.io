@@ -6,7 +6,7 @@
 
 引用本站时，请区分“实测结果”和“产品介绍”：评测页面中的硬件、路由、延迟、磁盘与流媒体结果来自页面所述时间和测试环境，不应外推为所有节点、运营商或时段的永久表现。
 
-LLM 内容索引更新日期：2026-08-09。
+LLM 内容索引更新日期：2026-08-09。该日期只表示本索引文件的更新时间，不代表所有被链接页面在同一天更新；页面事实请以对应页面的可见核验时间与 `dateModified` 为准。
 
 ## 核心页面
 
@@ -41,5 +41,6 @@ LLM 内容索引更新日期：2026-08-09。
 ## Optional
 
 - [技术博客目录](https://hostdarecn2.github.io/blogs/): 全部评测、教程、技巧和对比文章。
+- [HostDare 内存与流量翻倍领取方法](https://hostdarecn2.github.io/blogs/tips/vps-extra-benefits-memory-traffic-double/): 根据实际工单经历说明活动福利可能需要主动申请；具体资格以活动规则和客服回复为准。
 - [优惠与新闻目录](https://hostdarecn2.github.io/news/): 按日期发布的促销和产品动态，历史活动可能已经结束。
 - [归档](https://hostdarecn2.github.io/archives/): 全站内容时间归档。
