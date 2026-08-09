@@ -36,6 +36,13 @@
 - **SEO 优化** - 针对搜索引擎进行全面优化
 - **用户友好** - 清晰的导航结构和内容组织
 
+## 🤖 LLM / GEO 支持
+
+- **[llms.txt](https://hostdarecn2.github.io/llms.txt)** - 为 LLM 提供站点说明、核心页面索引、内容时效和引用边界
+- **[llms-full.txt](https://hostdarecn2.github.io/llms-full.txt)** - 汇总站点实体、证据层级、核心问题和页面级引用指引
+- **[关于本站与评测方法](https://hostdarecn2.github.io/about/)** - 公开测试方法、信息来源、Affiliate 关系和纠错渠道
+- **[sitemap.xml](https://hostdarecn2.github.io/sitemap.xml)** - 帮助搜索引擎发现可索引页面
+
 ## 📊 内容更新
 
 - **高频更新** - 优惠信息和新闻动态实时更新

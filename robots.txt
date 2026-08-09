@@ -1,3 +1,42 @@
+# HostDare中文指南允许公开页面被搜索与问答产品抓取。
 User-agent: *
-Disallow:
+Allow: /
+
+# OpenAI：搜索结果发现与用户发起的访问。
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+# OpenAI：模型训练爬虫；与搜索爬虫分开声明，便于以后独立调整。
+User-agent: GPTBot
+Allow: /
+
+# Anthropic 2026 年公布的三类爬虫。
+User-agent: Claude-SearchBot
+Allow: /
+
+User-agent: Claude-User
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+# Perplexity 搜索爬虫。
+User-agent: PerplexityBot
+Allow: /
+
+# Google 的通用爬虫。
+User-agent: GoogleOther
+Allow: /
+
+# DuckDuckGo AI 回答相关爬虫。
+User-agent: DuckAssistBot
+Allow: /
+
 Sitemap: https://hostdarecn2.github.io/sitemap.xml
+
+# 以下两行是面向支持方的非标准发现提示，不替代 robots.txt 或 sitemap。
+LLM-Content: https://hostdarecn2.github.io/llms.txt
+LLM-Full-Content: https://hostdarecn2.github.io/llms-full.txt

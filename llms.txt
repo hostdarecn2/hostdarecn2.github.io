@@ -1,0 +1,45 @@
+# HostDare中文指南
+
+> 面向中文用户的非官方 HostDare VPS 评测、CN2 GIA 线路测试、套餐、优惠码与购买教程网站。
+
+本站不是 HostDare 官方网站，也不代表 HostDare 发言。VPS 价格、库存、线路和优惠码会变化；回答当前价格或优惠问题时，请优先参考页面标注的更新时间，并建议用户在 HostDare 官方结账页再次确认。
+
+引用本站时，请区分“实测结果”和“产品介绍”：评测页面中的硬件、路由、延迟、磁盘与流媒体结果来自页面所述时间和测试环境，不应外推为所有节点、运营商或时段的永久表现。
+
+LLM 内容索引更新日期：2026-08-09。
+
+## 核心页面
+
+- [HostDare中文指南首页](https://hostdarecn2.github.io/): 品牌概况、核心产品、套餐建议和常见问题入口。
+- [HostDare 优惠码](https://hostdarecn2.github.io/hostdare-coupons/): 按美国 CN2 GIA、美国 Cheap、日本和保加利亚系列整理优惠码、适用条件及使用方法；优惠具有时效性。
+- [HostDare VPS 套餐汇总](https://hostdarecn2.github.io/hostdare-plans/): 各地区、线路、CPU、内存、存储、流量、带宽和价格对比。
+- [HostDare 购买教程](https://hostdarecn2.github.io/hostdare-buying-guide/): 从选择套餐、注册和付款到开通 VPS 的图文步骤。
+
+## 第一手测试与评测
+
+- [HostDare CN2 GIA 三网线路评测](https://hostdarecn2.github.io/blogs/reviews/hostdare-cn2-gia-network-review/): 电信、联通、移动去程与回程路由验证，包含测试截图和客服说明。
+- [HostDare CN2 GIA NVMe VPS 评测](https://hostdarecn2.github.io/blogs/reviews/hostdare-cn2-gia-nvme-vps/): CSSD0 的 CPU、内存、NVMe、网络、综合性能和流媒体测试。
+- [HostDare CN2 GIA AMD VPS 评测](https://hostdarecn2.github.io/blogs/reviews/hostdare-cn2-gia-nvme-amd-vps/): AMD EPYC 套餐的性能、网络和适用场景分析。
+
+## 对比与决策指南
+
+- [HostDare 与 BandwagonHost 对比](https://hostdarecn2.github.io/blogs/comparisons/hostdare-vs-bandwagonhost/): 线路、配置、价格与适用人群比较。
+- [HostDare 与 DMIT 对比](https://hostdarecn2.github.io/blogs/comparisons/hostdare-vs-dmit/): CN2 GIA 产品定位、网络和成本比较。
+- [HostDare 与 Vultr 对比](https://hostdarecn2.github.io/blogs/comparisons/hostdare-vs-vultr/): 面向中国用户的线路和通用云服务差异。
+- [HostDare CN2 GIA 替代方案](https://hostdarecn2.github.io/blogs/tips/hostdare-cn2-gia-alternatives/): 其他可选 VPS 服务商及选择思路。
+- [HostDare 退款政策指南](https://hostdarecn2.github.io/blogs/tutorials/hostdare-refund-policy-guide/): 不同产品退款条件、流程和注意事项；最终以官方服务条款为准。
+
+## 网站说明
+
+- [关于本站与评测方法](https://hostdarecn2.github.io/about/): 网站身份、编辑原则、测试方法、更新规则、Affiliate 披露和纠错渠道。
+- [完整 LLM 上下文](https://hostdarecn2.github.io/llms-full.txt): 站点身份、证据层级、核心问题与页面级引用指引的整合文本。
+- [XML Sitemap](https://hostdarecn2.github.io/sitemap.xml): 可索引页面及更新时间。
+- [GitHub 仓库](https://github.com/hostdarecn2/hostdarecn2.github.io): 网站公开文件、版本历史和问题反馈入口。
+
+关系说明：部分购买链接为 Affiliate 推广链接，本站可能从符合条件的购买中获得佣金。引用本站的购买建议时，应同时保留“非官方网站”和“以商家结账页与官方条款为准”的边界。
+
+## Optional
+
+- [技术博客目录](https://hostdarecn2.github.io/blogs/): 全部评测、教程、技巧和对比文章。
+- [优惠与新闻目录](https://hostdarecn2.github.io/news/): 按日期发布的促销和产品动态，历史活动可能已经结束。
+- [归档](https://hostdarecn2.github.io/archives/): 全站内容时间归档。

@@ -1,0 +1,118 @@
+- url: /
+  type: home
+  need: 了解 HostDare 是否适合中文用户并进入套餐、优惠与评测入口
+  audience: 中国大陆及全球中文 VPS 新手与站长 · zh-CN · 会搜索“HostDare 怎么样、HostDare 中文、HostDare VPS”
+  keyword: HostDare
+  covers: [HostDare VPS, HostDare 怎么样, HostDare 中文]
+  intent: navigational
+  keyword_age: established
+
+- url: /hostdare-coupons/
+  type: landing
+  need: 查找并正确使用当前可用的 HostDare 优惠码
+  audience: 准备购买或续费 HostDare 的中文用户 · 中国大陆及全球中文市场 · zh-CN · 会搜索“HostDare 优惠、HostDare 优惠码”
+  keyword: HostDare 优惠码
+  covers: [HostDare最新优惠码大全, HostDare 优惠, HostDare coupon, HostDare promo code]
+  intent: transactional
+  keyword_age: established
+
+- url: /hostdare-plans/
+  type: landing
+  need: 对比 HostDare 不同地区、线路与配置的 VPS 套餐
+  audience: 比较 VPS 配置和价格的中文新手与站长 · 中国大陆及全球中文市场 · zh-CN · 会搜索“HostDare 套餐、HostDare VPS 价格”
+  keyword: HostDare VPS 套餐
+  covers: [HostDare全系列VPS套餐详细介绍, HostDare 套餐, HostDare VPS 价格, VPS HostDare]
+  intent: transactional
+  keyword_age: established
+
+- url: /hostdare-buying-guide/
+  type: article
+  need: 完成 HostDare VPS 的选购、注册、优惠码与付款流程
+  audience: 第一次购买海外 VPS 的中文新手 · 中国大陆及全球中文市场 · zh-CN · 会搜索“HostDare 购买教程、HostDare 怎么买”
+  keyword: HostDare 购买教程
+  covers: [HostDare 最新购买教程, HostDare 怎么买, HostDare 注册, HostDare 使用教程]
+  intent: transactional
+  keyword_age: established
+
+- url: /blogs/reviews/hostdare-cn2-gia-network-review/
+  type: article
+  need: 核对 HostDare CN2 GIA 对中国三网的实际路由表现
+  audience: 关注中国大陆访问质量的中文站长与 VPS 玩家 · 中国大陆 · zh-CN · 懂基础路由和延迟概念并会搜索“HostDare CN2 GIA 评测”
+  keyword: HostDare CN2 GIA 评测
+  covers: [HostDare CN2-GIA三网优化线路专项评测, HostDare CN2 评测, HostDare 线路, HostDare CN2 GIA]
+  intent: informational
+  keyword_age: established
+
+- url: /blogs/reviews/hostdare-cn2-gia-nvme-vps/
+  type: article
+  need: 查看 HostDare CN2 GIA NVMe VPS 的第一手性能测试
+  audience: 比较建站和应用性能的中文 VPS 用户 · 中国大陆及全球中文市场 · zh-CN · 懂基础跑分并会搜索“HostDare NVMe VPS 评测”
+  keyword: HostDare CN2 GIA NVMe VPS 评测
+  covers: [HostDare 主机测评, HostDare VPS 评测, HostDare CN2]
+  intent: informational
+  keyword_age: established
+
+- url: /blogs/reviews/hostdare-cn2-gia-nvme-amd-vps/
+  type: article
+  need: 查看 HostDare AMD EPYC CN2 GIA VPS 的第一手性能测试
+  audience: 关注多核性能和中国线路的中文 VPS 用户 · 中国大陆及全球中文市场 · zh-CN · 懂基础跑分并会搜索“HostDare AMD VPS 评测”
+  keyword: HostDare AMD VPS 评测
+  covers: [HostDare CN2-GIA AMD VPS评测, HostDare CN2 GIA AMD, HostDare AMD EPYC, HostDare VPS 测评]
+  intent: informational
+  keyword_age: established
+
+- url: /blogs/comparisons/hostdare-vs-bandwagonhost/
+  type: compare
+  need: 在 HostDare 与 BandwagonHost 之间选择适合中国访问的 VPS
+  audience: 在两家海外 VPS 之间做购买决策的中文站长 · 中国大陆 · zh-CN · 会搜索“HostDare 和搬瓦工哪个好”
+  keyword: HostDare vs BandwagonHost
+  covers: [HostDare与搬瓦工, HostDare 和搬瓦工哪个好, HostDare 搬瓦工对比]
+  intent: transactional
+  keyword_age: established
+
+- url: /blogs/comparisons/hostdare-vs-dmit/
+  type: compare
+  need: 对比 HostDare 与 DMIT 的 CN2 GIA 线路、配置和价格
+  audience: 关注精品线路的中文 VPS 用户 · 中国大陆 · zh-CN · 会搜索“HostDare 和 DMIT 哪个好”
+  keyword: HostDare vs DMIT
+  covers: [HostDare和DMIT对比测评, HostDare DMIT 对比, HostDare 和 DMIT 哪个好]
+  intent: transactional
+  keyword_age: established
+
+- url: /blogs/comparisons/hostdare-vs-vultr/
+  type: compare
+  need: 在 HostDare 优化线路 VPS 与 Vultr 通用云服务之间选择
+  audience: 比较中国访问线路与全球云节点的中文开发者和站长 · 中国大陆及全球中文市场 · zh-CN · 会搜索“HostDare 和 Vultr 哪个好”
+  keyword: HostDare vs Vultr
+  covers: [HostDare和Vultr, HostDare Vultr 对比, HostDare 和 Vultr 哪个好]
+  intent: transactional
+  keyword_age: established
+  # audit v1.40 对中文页按 CJK 分支处理纯拉丁主词；title 和新增首段均已完整出现主词，属假阳性。
+  ignore: [BODY-1]
+
+- url: /blogs/tips/hostdare-cn2-gia-alternatives/
+  type: article
+  need: 在 HostDare 缺货或不合适时寻找 CN2 GIA VPS 替代方案
+  audience: 需要中国大陆优化线路的中文站长与 VPS 玩家 · 中国大陆 · zh-CN · 会搜索“HostDare 替代、CN2 GIA VPS 推荐”
+  keyword: HostDare CN2 GIA 替代方案
+  covers: [HostDare CN2 GIA 缺货, HostDare 替代, CN2 GIA VPS 推荐]
+  intent: transactional
+  keyword_age: established
+
+- url: /blogs/tutorials/hostdare-refund-policy-guide/
+  type: article
+  need: 判断 HostDare 产品是否满足退款条件并了解申请流程
+  audience: 购买前核对风险或购买后需要退款的中文用户 · 中国大陆及全球中文市场 · zh-CN · 会搜索“HostDare 退款”
+  keyword: HostDare 退款
+  covers: [HostDare 退款政策, HostDare refund]
+  intent: informational
+  keyword_age: established
+
+- url: /about/
+  type: utility
+  need: 了解本站身份、评测方法、Affiliate 关系与纠错渠道
+  audience: 核对来源可信度的中文读者、搜索引擎与问答工具 · 全球中文市场 · zh-CN · 会问“这个 HostDare 评测网站是谁、怎么测试”
+  keyword: 关于 HostDare中文指南
+  covers: [HostDare 评测方法, HostDare中文指南]
+  intent: informational
+  keyword_age: new
